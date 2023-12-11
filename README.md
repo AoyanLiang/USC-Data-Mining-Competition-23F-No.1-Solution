@@ -1,6 +1,6 @@
 # USC-Data-Mining-Competition-23F-No.1-Solution
 Build recommendation systems using the Yelp review dataset to predict the ratings/stars for a given user and business pair\
-**Final test data RMSE: 0.9680267140533286**
+**Final test data RMSE: 0.9680267140533286 (First Place)**
 
 ## 1. Feature Engineering
 ### Graph embedding
