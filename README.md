@@ -17,7 +17,7 @@ Bayesian optimization was employed to fine-tune the XGBoost model's hyperparamet
 Various models were evaluated, with gradient decision trees demonstrating superior performance. Although XGBoost, CatBoost, and LightGBM yielded comparable results, XGBoost was selected for its balance of efficiency and effectiveness. Using the optimal hyperparameters identified through Bayesian optimization, the model was trained on a combined set of training and validation data. This approach aimed to enhance accuracy on both validation and test datasets. The training procedure and model details are available in [train.ipynb](train.ipynb).
 
 ## 4. Evaluation 
-- Error Distribution
+- Error Distribution: 
 ```markdown
 >=0 and <1: 108400
 >=1 and <2: 28780
